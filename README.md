@@ -1,5 +1,11 @@
 # lab3web
-Hardi Wirkan 312210492
+
+Nama  : Hardi Wirkan
+
+Nim   : 312210492
+
+Kelas : TI.22.A.5
+
 ## Database
 ### Tabel
 
